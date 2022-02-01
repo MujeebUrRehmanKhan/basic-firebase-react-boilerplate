@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "test-project-bb828",
+    "production": "test-project-bb828"
+  }
+}
